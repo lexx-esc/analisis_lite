@@ -1,0 +1,6 @@
+{
+	"project_name": "Введите название проекта",
+	"folder_name": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
+	"git_user": "global",
+	"git_email": "global"
+}
