@@ -32,7 +32,8 @@
 
 ## Как пользоваться
 
-Чтобы воспользоваться этим шаблоном, нам потребуется утилита [Cookiecutter](https://github.com/cookiecutter/cookiecutter)**:
+Чтобы воспользоваться этим шаблоном, нам потребуется утилита 
+[Cookiecutter](https://github.com/cookiecutter/cookiecutter)**:
 ```
 $ conda install -c conda-forge cookiecutter
 ```
@@ -49,8 +50,11 @@ $ cookiecutter https://github.com/lexx-esc/analisis_lite.git
 ## Обязательно ли оставлять структуру неизменной
 
 Верхнеуровневую структуру, конечно, лучше не трогать (но это - не точно :simple_smile:). 
-А вот, второй уровень и ниже - в ваших руках. Настраивайте как нравится.<br>
+А вот, второй уровень и ниже - в ваших руках. Настраивайте как нравится.
 <br>
+<br>
+<br>
+
 ---
 Огромное спасибо проекту [Cookiecutter](https://github.com/cookiecutter/cookiecutter), 
 ведь с его помощью, на подготовку структуры проектов, уходит гораздо меньше времени.
