@@ -15,8 +15,10 @@ then
    git config user.email "{{cookiecutter.git_email}}"
 fi
 
-echo "\n\nnotebooks/\ndata/" >> .gitignore
-
 git add .
+
+echo "\n\nnotebooks/\ndata/\nconfig" >> .gitignore
+git add .gitignore
+
 git commit -m "initial commit"
 
