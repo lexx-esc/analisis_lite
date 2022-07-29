@@ -1,8 +1,12 @@
 # {{cookiecutter.project_name}}
 ---
-Структура проекта:
+
+### Описание набора данных 
+
+
+### Структура проекта
 ```
-├── README.md          <- Этот файл. Структура проекта {{cookiecutter.project_name}}
+├── README.md          <- Этот файл. Структура проекта "{{cookiecutter.project_name}}"
 ├── data
 │   ├── external       <- Данные из внешних источников
 │   ├── interim        <- Промежуточные данные процесса
